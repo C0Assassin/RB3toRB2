@@ -91,7 +91,7 @@
    ('sub_genre' 'subgenre_southernrock')
    ('song_id' '1079')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "(pronounced 'leh-'nérd 'skin-'nérd)"
@@ -203,7 +203,7 @@
    ('sub_genre' 'subgenre_metal')
    ('song_id' '1090')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Pyromania"
@@ -321,7 +321,7 @@
    ('sub_genre' 'subgenre_other')
    ('song_id' '1064')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Riot!"
@@ -438,7 +438,7 @@
    ('sub_genre' 'subgenre_other')
    ('song_id' '1036')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Road to Ruin"
@@ -557,7 +557,7 @@
    ('sub_genre' 'subgenre_classicrock')
    ('song_id' '1003')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "A Night at the Opera"
@@ -676,7 +676,7 @@
    ('sub_genre' 'subgenre_other')
    ('song_id' '1103')
    ('tuning_offset_cents' 48)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Five Lessons Learned"
@@ -794,7 +794,7 @@
    ('sub_genre' 'subgenre_other')
    ('song_id' '1072')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Look Sharp!"
@@ -913,7 +913,7 @@
    ('sub_genre' 'subgenre_glam')
    ('song_id' '1098')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Space Oddity"
@@ -1032,7 +1032,7 @@
    ('sub_genre' 'subgenre_metal')
    ('song_id' '1009')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Blizzard of Ozz"
@@ -1146,7 +1146,7 @@
    ('sub_genre' 'subgenre_metal')
    ('song_id' '1082')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Sehnsucht"
@@ -1264,7 +1264,7 @@
    ('sub_genre' 'subgenre_rock')
    ('song_id' '1055')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Songs for the Deaf"
@@ -1383,7 +1383,7 @@
    ('sub_genre' 'subgenre_metal')
    ('song_id' '1100')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Vol. 3: (The Subliminal Verses)"
@@ -1501,7 +1501,7 @@
    ('sub_genre' 'subgenre_progrock')
    ('song_id' '1012')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Fragile"
@@ -1620,7 +1620,7 @@
    ('sub_genre' 'subgenre_classic')
    ('song_id' '1083')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "I Love Rock N' Roll"
@@ -1740,7 +1740,7 @@
    ('sub_genre' 'subgenre_classicrock')
    ('song_id' '1046')
    ('tuning_offset_cents' 8)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Machine Head"
@@ -1858,7 +1858,7 @@
    ('sub_genre' 'subgenre_rock')
    ('song_id' '1004')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Midnight Madness"
@@ -1975,7 +1975,7 @@
    ('sub_genre' 'subgenre_thrash')
    ('song_id' '1049')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Among the Living"
@@ -2094,7 +2094,7 @@
    ('sub_genre' 'subgenre_other')
    ('song_id' '1035')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Yoshimi Battles the Pink Robots"
@@ -2213,7 +2213,7 @@
    ('sub_genre' 'subgenre_new_wave')
    ('song_id' '1045')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Parallel Lines"
@@ -2331,7 +2331,7 @@
    ('sub_genre' 'subgenre_classicrock')
    ('song_id' '1013')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Chicago II"
@@ -2449,7 +2449,7 @@
    ('sub_genre' 'subgenre_classicrock')
    ('song_id' '1067')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Fly Like an Eagle"
@@ -2568,7 +2568,7 @@
    ('sub_genre' 'subgenre_rock')
    ('song_id' '1094')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "A Picture of Nectar"
@@ -2686,7 +2686,7 @@
    ('sub_genre' 'subgenre_classicrock')
    ('song_id' '1054')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Moontan"
@@ -2804,7 +2804,7 @@
    ('sub_genre' 'subgenre_new_wave')
    ('song_id' '1058')
    ('tuning_offset_cents' 5.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Ocean Rain"
@@ -2923,7 +2923,7 @@
    ('sub_genre' 'subgenre_industrial')
    ('song_id' '1008')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Antichrist Superstar"
@@ -3041,7 +3041,7 @@
    ('sub_genre' 'subgenre_alternative')
    ('song_id' '1043')
    ('tuning_offset_cents' 10)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Short Bus"
@@ -3183,7 +3183,7 @@
    ('sub_genre' 'subgenre_metal')
    ('song_id' '1047')
    ('tuning_offset_cents' 15)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Holy Diver"
@@ -3301,7 +3301,7 @@
    ('sub_genre' 'subgenre_other')
    ('song_id' '1016')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Kick"
@@ -3419,7 +3419,7 @@
    ('sub_genre' 'subgenre_metal')
    ('song_id' '1077')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Whitesnake"
@@ -3538,7 +3538,7 @@
    ('sub_genre' 'subgenre_rock')
    ('song_id' '1021')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Greatest Hits"
@@ -3658,7 +3658,7 @@
    ('sub_genre' 'subgenre_metal')
    ('song_id' '1074')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "City of Evil"
@@ -3776,7 +3776,7 @@
    ('sub_genre' 'subgenre_rhythmandblues')
    ('song_id' '1085')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Why Can't We Be Friends?"
@@ -3894,7 +3894,7 @@
    ('sub_genre' 'subgenre_classicrock')
    ('song_id' '1101')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "The Doors"
@@ -4012,7 +4012,7 @@
    ('sub_genre' 'subgenre_alternative')
    ('song_id' '1031')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Core"
@@ -4131,7 +4131,7 @@
    ('sub_genre' 'subgenre_other')
    ('song_id' '1057')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Zenyattà Mondatta"
@@ -4250,7 +4250,7 @@
    ('sub_genre' 'subgenre_other')
    ('song_id' '1033')
    ('tuning_offset_cents' -35)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Songs from the Big Chair"
@@ -4369,7 +4369,7 @@
    ('sub_genre' 'subgenre_classicrock')
    ('song_id' '1018')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Electric Ladyland"
@@ -4489,7 +4489,7 @@
    ('sub_genre' 'subgenre_new_wave')
    ('song_id' '1048')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Devo Rock Band Re-Records"
@@ -4608,7 +4608,7 @@
    ('sub_genre' 'subgenre_soul')
    ('song_id' '1044')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Back to Black"
@@ -4726,7 +4726,7 @@
    ('sub_genre' 'subgenre_alternative')
    ('song_id' '1078')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Sailing the Seas of Cheese"
@@ -4845,7 +4845,7 @@
    ('sub_genre' 'subgenre_other')
    ('song_id' '1091')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "The New Romance"
@@ -4964,7 +4964,7 @@
    ('sub_genre' 'subgenre_rock')
    ('song_id' '1060')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Highly Evolved"
@@ -5083,7 +5083,7 @@
    ('sub_genre' 'subgenre_rock')
    ('song_id' '1086')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Freeze Frame"
@@ -5201,7 +5201,7 @@
    ('sub_genre' 'subgenre_classicrock')
    ('song_id' '1102')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Imagine"
@@ -5319,7 +5319,7 @@
    ('sub_genre' 'subgenre_hardcore')
    ('song_id' '1105')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "The Bronx"
@@ -5437,7 +5437,7 @@
    ('sub_genre' 'subgenre_rock')
    ('song_id' '1034')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Them Crooked Vultures"
@@ -5556,7 +5556,7 @@
    ('sub_genre' 'subgenre_classicrock')
    ('song_id' '1024')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Foreigner"
@@ -5675,7 +5675,7 @@
    ('song_id' '1001')
    ('tuning_offset_cents' 0.0)
    (video_venues (video_01))
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Elephant"
@@ -5794,7 +5794,7 @@
    ('sub_genre' 'subgenre_rock')
    ('song_id' '1092')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Brothers in Arms"
@@ -5913,7 +5913,7 @@
    ('sub_genre' 'subgenre_classicrock')
    ('song_id' '1028')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "The Captain and Me"
@@ -6031,7 +6031,7 @@
    ('sub_genre' 'subgenre_classicrock')
    ('song_id' '1056')
    ('tuning_offset_cents' 15)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Excitable Boy"
@@ -6150,7 +6150,7 @@
    ('sub_genre' 'subgenre_classicrock')
    ('song_id' '1088')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "You're Gonna Get It!"
@@ -6269,7 +6269,7 @@
    ('sub_genre' 'subgenre_other')
    ('song_id' '1106')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "To The Confusion Of Our Enemies"
@@ -6388,7 +6388,7 @@
    ('sub_genre' 'subgenre_other')
    ('song_id' '1093')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "The Muffs Rock Band Re-Records"
@@ -6506,7 +6506,7 @@
    ('sub_genre' 'subgenre_alternative')
    ('song_id' '1071')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Wolfgang Amadeus Phoenix"
@@ -6625,7 +6625,7 @@
    ('sub_genre' 'subgenre_rock')
    ('song_id' '1104')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "I Was Dead for 7 Weeks in the City of Angels"
@@ -6753,7 +6753,7 @@
    ('sub_genre' 'subgenre_rock')
    ('song_id' '1095')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Live at London"
@@ -6897,7 +6897,7 @@
    ('sub_genre' 'subgenre_rhythmandblues')
    ('song_id' '1066')
    ('tuning_offset_cents' -20)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Alternative Studio Version"
@@ -7040,7 +7040,7 @@
    ('sub_genre' 'subgenre_reggae')
    ('song_id' '1075')
    ('tuning_offset_cents' -25)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Legend"
@@ -7186,7 +7186,7 @@
    ('sub_genre' 'subgenre_indierock')
    ('song_id' '1097')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Through the Chaos"
@@ -7332,7 +7332,7 @@
    ('sub_genre' 'subgenre_new_wave')
    ('song_id' '1025')
    ('tuning_offset_cents' 40)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "The B-52's"
@@ -7478,7 +7478,7 @@
    ('sub_genre' 'subgenre_other')
    ('song_id' '1061')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Fush Yu Mang"
@@ -7624,7 +7624,7 @@
    ('sub_genre' 'subgenre_other')
    ('song_id' '1084')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "La Vida... Es un Ratico"
@@ -7773,7 +7773,7 @@
    ('sub_genre' 'subgenre_alternative')
    ('song_id' '1029')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Fortress Round My Heart"
@@ -7886,7 +7886,7 @@
    ('sub_genre' 'subgenre_new_wave')
    ('song_id' '1050')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Kiss Me, Kiss Me, Kiss Me"
@@ -7999,7 +7999,7 @@
    ('sub_genre' 'subgenre_other')
    ('song_id' '1087')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "¿Dónde Jugarán los Niños?"
@@ -8112,7 +8112,7 @@
    ('sub_genre' 'subgenre_classicrock')
    ('song_id' '1073')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "The Who Sell Out"
@@ -8224,7 +8224,7 @@
    ('sub_genre' 'subgenre_classicrock')
    ('song_id' '1053')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Goodbye Yellow Brick Road"
@@ -8337,7 +8337,7 @@
    ('sub_genre' 'subgenre_alternative')
    ('song_id' '1063')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Dark Light"
@@ -8450,7 +8450,7 @@
    ('sub_genre' 'subgenre_alternative')
    ('song_id' '1037')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Ritual de lo Habitual"
@@ -8563,7 +8563,7 @@
    ('sub_genre' 'subgenre_classicrock')
    ('song_id' '1011')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Tanx"
@@ -8676,7 +8676,7 @@
    ('sub_genre' 'subgenre_other')
    ('song_id' '1089')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Humanoid"
@@ -8789,7 +8789,7 @@
    ('sub_genre' 'subgenre_other')
    ('song_id' '1032')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "The Con"
@@ -8902,7 +8902,7 @@
    ('sub_genre' 'subgenre_alternative')
    ('song_id' '1081')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Relationship of Command"
@@ -9015,7 +9015,7 @@
    ('sub_genre' 'subgenre_new_wave')
    ('song_id' 'o39945772')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "The Crossing"
@@ -9128,7 +9128,7 @@
    ('sub_genre' 'subgenre_alternative')
    ('song_id' '1015')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Angel Dust"
@@ -9240,7 +9240,7 @@
    ('sub_genre' 'subgenre_alternative')
    ('song_id' '1069')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Strangeways, Here We Come"
@@ -9352,7 +9352,7 @@
    ('sub_genre' 'subgenre_other')
    ('song_id' '1030')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Old World Underground, Where Are You Now?"
@@ -9465,7 +9465,7 @@
    ('sub_genre' 'subgenre_alternative')
    ('song_id' '1014')
    ('tuning_offset_cents' 30)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Resident Alien"
@@ -9577,7 +9577,7 @@
    ('sub_genre' 'subgenre_new_wave')
    ('song_id' '1080')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Images of Sigrid"
@@ -9690,7 +9690,7 @@
    ('sub_genre' 'subgenre_other')
    ('song_id' '1070')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "In and Out of Control"
@@ -9803,7 +9803,7 @@
    ('sub_genre' 'subgenre_new_wave')
    ('song_id' '1052')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "Living in America"
@@ -9916,7 +9916,7 @@
    ('sub_genre' 'subgenre_other')
    ('song_id' '1076')
    ('tuning_offset_cents' 0.0)
-   ('game_origin' 'rb3')
+   ('game_origin' 'rb3') (fake #ifdef RB3E TRUE #else FALSE #endif)
    (
       'album_name'
       "More Adventurous"
