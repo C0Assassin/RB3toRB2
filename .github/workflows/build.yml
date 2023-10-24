@@ -1,0 +1,44 @@
+name: CI
+
+on: [push, pull_request]
+
+jobs:
+  build_xbox_packs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Set up env
+        run: |
+          sudo apt-get install rename -y
+
+      - name: Set up Onyx
+        run: |
+          sudo apt install libfuse2
+          sudo apt install wget
+          sudo wget -P dependencies https://github.com/mtolly/onyxite-customs/releases/download/20230130/onyx-20230130-linux-x64.AppImage
+          sudo chmod a+x dependencies/onyx-20230130-linux-x64.AppImage
+          ./dependencies/onyx-20230130-linux-x64.AppImage --appimage-extract
+
+      ########################################################################
+
+      - name: Build RB3toRB2 DISC packed CON
+        run: |
+          python dependencies/pack_single_cons.py RB3-to-RB2-DISC
+      
+      - name: Upload result
+        uses: actions/upload-artifact@v2
+        with:
+          name: RB3toRB2-DISC-Xbox_songs
+          path: |
+            RB3-to-RB2-DISC_RB2con
+
+      - name: Remove RB3toRB2 DISC packed CON
+        run: |
+          rm RB3-to-RB2-DISC_RB2con
